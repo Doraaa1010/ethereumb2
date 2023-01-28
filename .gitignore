@@ -1,8 +1,8 @@
 .env
 *.pdf
 *.orig
-.password
-.DS_Store
+.password2
+.DS_Store2
 snippets
 node_modules
 .ipynb_checkpoints
